@@ -1,0 +1,1 @@
+# exercise1_zipfs_law_of_abbreviation

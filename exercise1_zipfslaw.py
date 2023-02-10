@@ -9,8 +9,8 @@ import seaborn as sns
 from collections import Counter 
 
 # File path of the datasets
-dataset_english = "./dataset/dataset_english.txt"
-dataset_spanish = "./dataset/dataset_spanish.txt"
+dataset_english = "./dataset_english.txt"
+dataset_spanish = "./dataset_spanish.txt"
 
 # Opening the TXT files
 with open(dataset_english, 'r') as file:
